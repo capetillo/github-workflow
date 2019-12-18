@@ -1,1 +1,1 @@
-I have to use the restroom
+const bathroomBreak = "I went pee but now I have to do something else..."
