@@ -1,0 +1,1 @@
+const bathroomBreak = "I went pee but now I have to do something else..."
